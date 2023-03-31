@@ -15,6 +15,17 @@ body {
     width: 120px;
 }
 
+.img-gif2 {
+    width: 130px;
+}
+
+.center-panel {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
 .containerjs {
     height: 100vh;
     margin: 0 auto;
@@ -33,12 +44,12 @@ body {
 }
 
 .one {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
 }
 
 .two {
-    font-size: 1.2rem;
-    font-weight: lighter;
+    font-size: 3rem;
+    /* font-weight: lighter; */
 }
 
 .three {
@@ -49,9 +60,9 @@ body {
     border: 1px solid #aaa;
     border-radius: 5px;
     margin: 0 auto;
-    padding: 10px;
+    padding: 15px;
     position: relative;
-    width: 800px;
+    width: 600px;
     /* width: 600px; */
 }
 
@@ -88,7 +99,7 @@ body {
 }
 
 .five .idea-5 {
-    font-size: 4rem;
+    font-size: 1.5rem;
 }
 
 .idea-5 span,
